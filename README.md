@@ -26,6 +26,10 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ```
+Примените миграции
+```
+flask db upgrade
+```
 Запустите сервер
 ```
 flask run

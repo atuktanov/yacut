@@ -33,7 +33,7 @@ flask run
 web интервейс будет доступен по адресу http://localhost:5000/
 
 ## REST API
-Документация по API: https://github.com/atuktanov/yacut/blob/6a83bbe55750d8cd0ae9864de260187bb4a16387/openapi.yml
+Документация по API: https://github.com/atuktanov/yacut/blob/master/openapi.yml
 
 ## Над проектом работали
 - [Алексей Туктанов](https://t.me/atuktanov)

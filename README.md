@@ -26,6 +26,7 @@ python -m venv venv
 ```
 pip install -r requirements.txt
 ```
+Отредактируйте и переименуйте  `.env.template`. в  `.env`
 Примените миграции
 ```
 flask db upgrade
